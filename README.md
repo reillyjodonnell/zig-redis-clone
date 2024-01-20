@@ -1,6 +1,6 @@
 ## Redis clone with zig
 
-https://github.com/reillyjodonnell/zig-redis-clone/assets/65147216/a60657a5-184a-4430-bfde-a803a6479fc9
+https://github.com/reillyjodonnell/zig-redis-clone/assets/65147216/2bdcc4f2-b1b2-49fd-918a-0e793811879e
 
 ### How Redis works
 
