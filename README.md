@@ -1,5 +1,7 @@
 ## Redis clone with zig
 
+https://github.com/reillyjodonnell/zig-redis-clone/assets/65147216/a60657a5-184a-4430-bfde-a803a6479fc9
+
 ### How Redis works
 
 - "In memory db" means that it's literally just a hash map that reads/ updates/ deletes values at run time as they come in
